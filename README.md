@@ -1,0 +1,2 @@
+# FINE3300-2025-A1
+Assignment 1 for FINE3300 
